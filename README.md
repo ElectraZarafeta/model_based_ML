@@ -4,8 +4,8 @@
 
 - Model Architecture 
 
-![](assets/impact.png)    
+![](https://drive.google.com/uc?export=view&id=1Oxc_qsS_P7Vah4xM4wYe3-M77gK404z7)    
 
 - Latent Space Representation
 
-![](assets/impact.png)    
+![](https://drive.google.com/uc?export=view&id=1_xMg2BTFfXnUeueDcJHpD_m51AwfOsKA)    
